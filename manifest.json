@@ -1,0 +1,24 @@
+{
+    "name"            : "Cartão de Credito com o Final Um",
+    "version"         : "1.0",
+    "description"     : "Gerar Cartão de Credito com o Final Um",
+    "manifest_version": 2,
+    "icons"           : {
+        "16" : "images/icon16.png",
+        "24" : "images/icon24.png",
+        "32" : "images/icon32.png",
+		"64" : "images/icon64.png",
+        "128": "images/icon128.png"
+    },
+    "browser_action": {
+        "name": "Clique para gerar seu Gerar Cartão de Credito"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
