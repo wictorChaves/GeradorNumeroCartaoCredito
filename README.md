@@ -9,8 +9,10 @@ Esta ferramenta agiliza os teste quando é necessário o preenchimento de cartã
 ## Screenshot
 
 A extensão é bem simples, ao terminar o processo de instalação aparecerá um ícone no canto direto superior do seu navegado com o ícone de um cartão de credito, ao clicar sobre o ícone é gerado um cartão aleatório e este número é salvo na sua área de transferência, facilitando assim o preenchimento de cartão de credito durante os testes da sua aplicação.
- 
+
+<kbd>
 <p><img src="https://github.com/wictorChaves/GeradorNumeroCartaoCredito/raw/master/screenshot/440x280.png"></p>
+</kbd>
 
 # Creditos
 
